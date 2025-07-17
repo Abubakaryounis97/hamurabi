@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "test",
+        "docs",
+        "project/src/main/java/com/example"
+    ]
+}
